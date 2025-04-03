@@ -1,5 +1,4 @@
 16-25-5 => [error]first log message!
-16-25-5 => [error]/home/zixuanhuang/mprpc/example/callee/friendservice.cc:main:43
 16-25-5 => [info]service_name:FriendServiceRpc
 16-25-5 => [info]method_name:GetFriendsList
 16-25-5 => [info]RpcProvider start service at ip::127.0.0.1 port:8080
