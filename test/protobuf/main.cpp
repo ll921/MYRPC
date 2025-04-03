@@ -30,7 +30,7 @@ int main(){
 int main1(){
     //封装了Login请求对象的数据
     fixbug::LoginRequest req;
-    req.set_name("wangwu");
+    req.set_name("wang wu");
     req.set_pwd("1231231");
 
     //对象数据序列化->char*
